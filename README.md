@@ -2,7 +2,6 @@
 ## Hello everyone! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" ></h2>
 <h1 align="center">I'm Aryan Chouksey</h1>
 
-- 💻 Actively looking for Software Development Engineer roles
 - 📫 How to reach me **ayushchauksey08@gmail.com**
 
 ## Connect with me  
