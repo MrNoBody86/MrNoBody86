@@ -1,6 +1,8 @@
 # Hello everyone! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" >
 <h1 align="center">I'm Aryan Chouksey</h1>
 
+
+- 🔭 I’m a college student, studying computer science.
 - 📫 How to reach me **ayushchauksey08@gmail.com**
 
 ## Connect with me  
