@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m a college student, studying computer science.
-- 📫 How to reach me **ayushchauksey08@gmail.com**
+- 📫 Reach me at **ayushchauksey08@gmail.com**
 
 ## Connect with me  
 <div align="center">
