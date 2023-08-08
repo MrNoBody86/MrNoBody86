@@ -5,7 +5,7 @@
 - 🔭 I’m a college student, studying computer science.
 - 📫 Reach me at **ayushchauksey08@gmail.com**
 
-## See my team projects @Dunno-Ikigai
+## See my team projects at Dunno-Ikigai
 
 ## Connect with me  
 <div align="center">
