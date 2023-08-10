@@ -6,6 +6,8 @@
 - 📫 Reach me at **ayushchauksey08@gmail.com**
 
 ## See my team projects at Dunno-Ikigai
+- Traffic Sign Recognition System
+
 
 ## Connect with me  
 <div align="center">
