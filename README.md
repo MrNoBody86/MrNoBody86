@@ -27,6 +27,6 @@
 </div>  
 
 ## My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNoBody86&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=MrNoBody86)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrNoBody86&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
