@@ -9,7 +9,7 @@
 
 - 🔭 I’m a college student, studying computer science.
 - 🌱 I’m currently developing new skills in machine learning
-- 🤞 I'm currently taking #100_days_of_code challenge (@ Day 30)
+- 🤞 I'm currently taking #100_days_of_code challenge (@ Day 31)
 - 👯 I’m looking to collaborate on open source machine learning projects 
 - 📫 Reach me at **ayushchauksey08@gmail.com**
 
