@@ -9,13 +9,13 @@
 
 - 🔭 I’m a college student, studying computer science.
 - 🌱 I’m currently developing new skills in machine learning
-- 🤞 I'm currently taking #100_days_of_code challenge (@ Day 33)
+- 🤞 I'm currently taking #100_days_of_code challenge (@ Day 34)
 - 👯 I’m looking to collaborate on open source machine learning projects 
 - 📫 Reach me at **ayushchauksey08@gmail.com**
 
 ## projects
 * [Traffic Sign recognition sytem using Python](https://github.com/Dunno-Ikigai/Traffic-sign-recognition)
-* [30 different python projects](https://github.com/MrNoBody86/100-Days-of-Code)
+* [31 different python projects](https://github.com/MrNoBody86/100-Days-of-Code)
 
 ## Connect with me  
 <div align="center">
