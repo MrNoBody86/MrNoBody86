@@ -15,7 +15,7 @@
 
 ## projects
 * [Traffic Sign recognition sytem using Python](https://github.com/Dunno-Ikigai/Traffic-sign-recognition)
-* [31 different python projects](https://github.com/MrNoBody86/100-Days-of-Code)
+* [32 different python projects](https://github.com/MrNoBody86/100-Days-of-Code)
 
 ## Connect with me  
 <div align="center">
