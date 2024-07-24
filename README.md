@@ -34,3 +34,5 @@
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNoBody86&layout=compact&theme=tokyonight&hide=css,ejs,html,jupyter,yacc,lex,c%20notebook&langs_count=8) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNoBody86&show_icons=true&count_private=true&theme=tokyonight)    |
 
 
+<a href=#><img src="contributions.svg"></a>
+
